@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Plus-One\bin\Debug\net7.0\Plus-One.exe
+C:\Users\trigo\Programação\C#\Plus-One\bin\Debug\net7.0\Plus-One.deps.json
+C:\Users\trigo\Programação\C#\Plus-One\bin\Debug\net7.0\Plus-One.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Plus-One\bin\Debug\net7.0\Plus-One.dll
+C:\Users\trigo\Programação\C#\Plus-One\bin\Debug\net7.0\Plus-One.pdb
+C:\Users\trigo\Programação\C#\Plus-One\obj\Debug\net7.0\Plus-One.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Plus-One\obj\Debug\net7.0\Plus-One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Plus-One\obj\Debug\net7.0\Plus-One.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Plus-One\obj\Debug\net7.0\Plus-One.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Plus-One\obj\Debug\net7.0\Plus-One.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Plus-One\obj\Debug\net7.0\Plus-One.dll
+C:\Users\trigo\Programação\C#\Plus-One\obj\Debug\net7.0\refint\Plus-One.dll
+C:\Users\trigo\Programação\C#\Plus-One\obj\Debug\net7.0\Plus-One.pdb
+C:\Users\trigo\Programação\C#\Plus-One\obj\Debug\net7.0\Plus-One.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Plus-One\obj\Debug\net7.0\ref\Plus-One.dll
